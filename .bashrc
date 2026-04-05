@@ -26,4 +26,4 @@ alias cp='cp -i'
 alias mv='mv -i'
 alias l='ls -l -h -a'
 #PS1='[$(/bin/hostname)]\w\S '
-PS1='[\h://\w]\$ 
+PS1='[\h://\w]\$ '
